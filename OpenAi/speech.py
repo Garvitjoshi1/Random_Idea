@@ -1,7 +1,7 @@
 import openai
 import speech_recognition as sr
 
-openai.api_key = "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"
+openai.api_key = "YOUR-API-KEY"
 
 def transcribe_audio(audio_file_path):
     recognizer = sr.Recognizer()
