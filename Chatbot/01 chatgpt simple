@@ -1,0 +1,8 @@
+import openai
+
+# https://platform.openai.com/api-keys to generate personal api keys of chatgpt
+
+openai.api_key = "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"
+
+completion = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=[{"role": "user", "content": "Give me 3 ideas for apps I could build with openai apis "}])
+print(completion.choices[0].message.content)
