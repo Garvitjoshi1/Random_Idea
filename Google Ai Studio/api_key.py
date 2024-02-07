@@ -6,7 +6,7 @@ $ pip install google-generativeai
 
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyBuhnVhACUyBRxbv7zTIoFunnW5GT9Y3GA")
+genai.configure(api_key="YOUR-API-KEY")
 
 # Set up the model
 generation_config = {
