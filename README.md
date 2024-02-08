@@ -1,4 +1,4 @@
-**🚀 Welcome to IdeaHub 🚀**
+## ***🚀 Welcome to IdeaHub 🚀***
 
 This repository is a creative space where we brainstorm and experiment with various ideas related to technology. Each idea is a potential project waiting to be explored. Join us on this journey of innovation and discovery!
 
@@ -23,9 +23,6 @@ This repository is a creative space where we brainstorm and experiment with vari
 
 We welcome contributions from fellow enthusiasts! If you have an idea you'd like to explore or want to collaborate on existing projects, feel free to fork this repository and submit a pull request.
 
-## License 📝
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Let's Connect 🌐
 
