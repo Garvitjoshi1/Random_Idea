@@ -13,7 +13,7 @@ def chatbot():
         user_input = data['message']
 
         # Replace 'AIzaSyBuhnVhACUyBRxbv7zTIoFunnW5GT9Y3GA' with the actual chatbot API URL
-        chatbot_api_url = 'AIzaSyBuhnVhACUyBRxbv7zTIoFunnW5GT9Y3GA'  # Replace with the actual chatbot API URL
+        chatbot_api_url = #'Replace with the actual chatbot API URL' 
         headers = {'Content-Type': 'application/json'}
 
         # Send the user's input to the chatbot API using the requests library
